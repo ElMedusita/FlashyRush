@@ -1,0 +1,88 @@
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-03-14 13:57 WET
+Nmap scan report for 192.168.1.1
+Host is up (0.00057s latency).
+MAC Address: E0:41:36:9A:BC:C0 (MitraStar Technology)
+Nmap scan report for 192.168.1.41
+Host is up (0.00032s latency).
+MAC Address: 04:42:1A:02:4E:BE (Unknown)
+Nmap scan report for 192.168.1.43
+Host is up (0.0013s latency).
+MAC Address: 3C:52:82:6A:94:CC (Hewlett Packard)
+Nmap scan report for 192.168.1.48
+Host is up (0.0013s latency).
+MAC Address: 1C:1B:0D:C8:F7:DF (Giga-byte Technology)
+Nmap scan report for 192.168.1.52
+Host is up (0.0031s latency).
+MAC Address: 3C:52:82:65:3E:28 (Hewlett Packard)
+Nmap scan report for 192.168.1.53
+Host is up (0.00013s latency).
+MAC Address: 7C:10:C9:8E:5E:F3 (Unknown)
+Nmap scan report for 192.168.1.55
+Host is up (0.0050s latency).
+MAC Address: 3C:52:82:69:50:62 (Hewlett Packard)
+Nmap scan report for 192.168.1.60
+Host is up (0.00018s latency).
+MAC Address: 7C:10:C9:8E:56:F4 (Unknown)
+Nmap scan report for 192.168.1.61
+Host is up (0.00015s latency).
+MAC Address: 3C:52:82:62:B1:2C (Hewlett Packard)
+Nmap scan report for 192.168.1.62
+Host is up (0.0050s latency).
+MAC Address: 3C:52:82:65:14:F3 (Hewlett Packard)
+Nmap scan report for 192.168.1.66
+Host is up (0.00018s latency).
+MAC Address: DC:A6:32:41:97:DF (Raspberry Pi Trading)
+Nmap scan report for 192.168.1.68
+Host is up (0.0091s latency).
+MAC Address: 70:C9:4E:97:9D:5D (Liteon Technology)
+Nmap scan report for 192.168.1.71
+Host is up (0.0049s latency).
+MAC Address: 3C:52:82:6A:96:36 (Hewlett Packard)
+Nmap scan report for 192.168.1.78
+Host is up (0.00043s latency).
+MAC Address: 00:0C:29:53:8A:3B (VMware)
+Nmap scan report for 192.168.1.85
+Host is up (0.00056s latency).
+MAC Address: DC:A6:32:41:99:2C (Raspberry Pi Trading)
+Nmap scan report for 192.168.1.87
+Host is up (0.00026s latency).
+MAC Address: 7C:10:C9:8E:5C:44 (Unknown)
+Nmap scan report for 192.168.1.107
+Host is up (0.0044s latency).
+MAC Address: 3C:52:82:62:B3:81 (Hewlett Packard)
+Nmap scan report for 192.168.1.116
+Host is up (0.00039s latency).
+MAC Address: 7C:10:C9:8E:56:8C (Unknown)
+Nmap scan report for 192.168.1.132
+Host is up (0.0015s latency).
+MAC Address: 3C:52:82:69:4D:F7 (Hewlett Packard)
+Nmap scan report for 192.168.1.134
+Host is up (0.00065s latency).
+MAC Address: BC:5F:F4:DE:95:F3 (ASRock Incorporation)
+Nmap scan report for 192.168.1.166
+Host is up (0.00065s latency).
+MAC Address: 3C:52:82:6A:95:38 (Hewlett Packard)
+Nmap scan report for 192.168.1.170
+Host is up (0.00019s latency).
+MAC Address: 7C:10:C9:8E:5B:FD (Unknown)
+Nmap scan report for 192.168.1.173
+Host is up (0.00014s latency).
+MAC Address: 7C:10:C9:8E:5C:37 (Unknown)
+Nmap scan report for 192.168.1.176
+Host is up (0.0036s latency).
+MAC Address: 3C:52:82:69:4E:1E (Hewlett Packard)
+Nmap scan report for 192.168.1.188
+Host is up (0.0038s latency).
+MAC Address: 3C:52:82:61:B7:8A (Hewlett Packard)
+Nmap scan report for cristina.alexis.com (192.168.1.193)
+Host is up (0.00012s latency).
+MAC Address: 7C:10:C9:8E:5C:45 (Unknown)
+Nmap scan report for 192.168.1.215
+Host is up (0.0036s latency).
+MAC Address: 1C:1B:0D:C8:F7:B3 (Giga-byte Technology)
+Nmap scan report for 192.168.1.254
+Host is up (0.015s latency).
+MAC Address: 00:14:BF:5A:50:D5 (Cisco-Linksys)
+Nmap scan report for alexis.com (192.168.1.36)
+Host is up.
+Nmap done: 256 IP addresses (29 hosts up) scanned in 1.14 seconds

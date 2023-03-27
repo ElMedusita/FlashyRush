@@ -1,0 +1,12 @@
+dn: uid=manuel,ou=personal,dc=alexis,dc=com
+objectClass: posixAccount
+objectClass: inetOrgPerson
+objectClass: person
+cn: manuel rodriguez
+sn: manuel
+uid: manuel
+uidNumber: 5003
+gidNumber: 4005
+loginShell: /bin/bash
+userPassword: pleploneta42
+homeDirectory: /home/manuel

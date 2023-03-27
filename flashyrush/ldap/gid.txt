@@ -1,0 +1,2 @@
+Grupo: publico GID: 4000 Unidad organizativa: privado
+Grupo: exterior GID: 4005 Unidad organizativa: personal

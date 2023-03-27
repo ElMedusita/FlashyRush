@@ -1,0 +1,4 @@
+dn: uid=manuela,ou=privado,dc=alexis,dc=com
+uid: manuela
+uidNumber: 5001
+Usuario: manuel Grupo: exterior GID: 4005 Unidad organizativa: personal

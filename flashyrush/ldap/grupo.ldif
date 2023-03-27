@@ -1,0 +1,4 @@
+dn: cn=exterior,ou=personal,dc=alexis,dc=com
+objectClass: posixGroup
+gidNumber: 4005
+cn: exterior
